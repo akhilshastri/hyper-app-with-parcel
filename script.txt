@@ -1,0 +1,2 @@
+http-server -p 5050 --proxy https://github.com      ## to run github in proxy mode
+parcel watch src/index.html                         ## to run parceljs in watch mode

@@ -1,0 +1,21 @@
+
+.searchContainer input[type="text"] {
+
+    width: 100%;
+
+}
+
+div.searchContainer ul {
+    max-height: calc(100vh - 230px);
+    overflow-y: scroll;
+}
+
+.radioList div{
+    margin-right:30px ;
+    display: inline;
+}
+
+.radioList label{
+    display: inline;
+    margin-left: 10px;
+}
